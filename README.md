@@ -33,6 +33,7 @@ cargo run --bin ex_time
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | `shuffle_array` | Interleaving |
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | `smaller` | Pairwise comparison |
 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | `stack` | Push/pop simulation |
+| [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | `final_prices` | Pairwise comparison |
 
 ## Verify the project
 
