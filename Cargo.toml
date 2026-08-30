@@ -1,0 +1,8 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+edition = "2024"
+description = "Rust solutions to LeetCode problems"
+readme = "README.md"
+
+[dependencies]
